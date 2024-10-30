@@ -1,0 +1,19 @@
+.editable{
+	border:1px dotted red;
+}
+
+.editable:hover{
+	border:1px solid orange;
+}
+
+.editable textarea{ 
+	height:auto; 
+	font-size:14px;
+	border:1px solid #ccc;
+	padding:0;
+}
+
+.editable input[type=submit],
+.editable button{ 
+	font-size:12px; 
+}
